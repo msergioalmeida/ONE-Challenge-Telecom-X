@@ -10,7 +10,7 @@ Analisar o perfil dos clientes que evadem e os que permanecem, destacando variá
 
 * `TelecomX_BR_MSPA.ipynb`: notebook completo
 * `assets/dados.csv`: dados utilizados
-* `figures/`: imagens geradas
+* `assets/graficos`: imagens geradas
 
 ## 📊 Principais Descobertas
 
@@ -31,6 +31,4 @@ Analisar o perfil dos clientes que evadem e os que permanecem, destacando variá
 
 ---
 
-📌 Projeto de caráter exploratório e estratégico. Para mais detalhes, consulte os notebooks.
-
-📧 Em caso de dúvidas ou sugestões, entre em contato!
+📌 Projeto de caráter exploratório e estratégico. 
