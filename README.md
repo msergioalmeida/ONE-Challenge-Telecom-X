@@ -15,6 +15,7 @@ Analisar o perfil dos clientes que evadem e os que permanecem, destacando variá
 ## 📊 Principais Descobertas
 
 <img src="assets/graficos/grafico evasao.png"> 
+<img src="assets/graficos/grafico permanencia.png"> 
 
 * **Tempo de contrato** e **faturamento total** são os fatores mais relevantes para retenção.
 * **Planos mensais** e **serviços incompletos** (sem fibra, segurança, suporte, backup) estão fortemente associados à evasão.
