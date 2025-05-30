@@ -8,8 +8,8 @@ Analisar o perfil dos clientes que evadem e os que permanecem, destacando variá
 
 ## 📁 Estrutura
 
-* `notebooks/`: análises e gráficos
-* `data/`: dados utilizados
+* `TelecomX_BR_MSPA.ipynb`: notebook completo
+* `assets/dados.csv`: dados utilizados
 * `figures/`: imagens geradas
 
 ## 📊 Principais Descobertas
